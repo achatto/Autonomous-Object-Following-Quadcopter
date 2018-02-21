@@ -1,0 +1,2 @@
+  <node pkg="rosbag" type="record" name="Test" args="-o /home/karthikeya/Desktop/Tests/Bag_files/Test /mavros/setpoint_position/local /mavros/local_position/pose /Pixel_error"  output="screen"/> 
+
